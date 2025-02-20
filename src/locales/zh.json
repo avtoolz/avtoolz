@@ -1,0 +1,55 @@
+{
+  "common": {
+    "ok": "確認",
+    "reset": "重設",
+    "home": "首頁",
+    "tools": "工具",
+    "all_tools": "所有工具",
+    "report_bugs": "錯誤回報",
+    "roadmap": "開發藍圖",
+    "source_code": "原始碼"
+  },
+  "theme": {
+    "light": "淺色",
+    "dark": "深色"
+  },
+  "search": {
+    "quick_search": "立即搜尋……",
+    "no_result": "查無「{query}」",
+    "no_recent_results": "查無最近的搜尋紀錄",
+    "try_something_else": "請再輸入其他關鍵字。",
+    "try_add_more_term": "請為所要輸入的詞彙，拼字得更加完整。"
+  },
+  "settings": {
+    "manage_settings": "管理主題、設定帳戶等等……",
+    "settings": "設定",
+    "appearance": "外觀",
+    "language": "顯示語言",
+    "themMode": "主題樣式",
+    "chooseLanguage": "選擇你的顯示語言",
+    "auth": {
+      "signed_in_as": "登入身分"
+    }
+  },
+  "unsupported_file_error": {
+    "unsupported_file_type": "檔案型式不支援",
+    "unsupported_file_type_message": "無法處理 <bold>{filename}</bold> 檔案。",
+    "invalid_file": "檔案無效",
+    "error_msg_one_or_more": "你所選擇的檔案或為無效、毀壞，抑或不受本網站支援。",
+    "error_msg_warning": "請確保檔案本身未經毀壞且有效。",
+    "file_is_of_following_format": "請確保檔案已是以下型式："
+  },
+  "image_to_pdf": {
+    "convert_to_pdf": "轉換至 PDF"
+  },
+  "file_uploader": {
+    "select_files": "+ 選擇檔案",
+    "drop_files": "將你的檔案放入至此……"
+  },
+  "home": {
+    "hero": {
+      "tagline": "省時、不省美，為現代人類而生的工具集合。",
+      "browse_all": "瀏覽所有工具"
+    }
+  }
+}
